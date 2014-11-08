@@ -347,6 +347,7 @@ div.header div.site-description p {
 div.header div.site-description ul {
   color: #fff;
   padding-top: 30px;
+  font-size: 18px;
 }
 div.header div.site-description ul li {
   color: #fff;
@@ -354,7 +355,6 @@ div.header div.site-description ul li {
 }
 div.header div.site-description ul li a {
   color: rgb(26, 188, 156);
-  font-size: 14px;
 }
 div.header div.site-description ul li a:hover,
 div.header div.site-description ul li a.active {
