@@ -352,6 +352,7 @@ div.header div.site-description ul {
 div.header div.site-description ul li {
   color: #fff;
   padding-bottom: 14px;
+  line-height: 26px;
 }
 div.header div.site-description ul li a {
   color: rgb(26, 188, 156);
