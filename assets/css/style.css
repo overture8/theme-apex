@@ -13,6 +13,11 @@
 * html .clearfix {
   zoom: 1;
 }
+#blogger-name {
+  text-align: center;
+  color: #ddd;
+  margin-top: 10px;
+}
 /* IE6 */
 *:first-child + html .clearfix {
   zoom: 1;
@@ -336,21 +341,21 @@ div.header div.site-description {
 div.header div.site-description h1 {
   font-size: 20px;
   line-height: 30px;
-  color: #ffffff;
+  color: #ddd;
   padding-bottom: 10px;
 }
 div.header div.site-description p {
   font-size: 16px;
   line-height: 28px;
-  color: #ffffff;
+  color: #ddd;
 }
 div.header div.site-description ul {
-  color: #fff;
+  color: #ddd;
   padding-top: 30px;
   font-size: 16px;
 }
 div.header div.site-description ul li {
-  color: #fff;
+  color: #ddd;
   padding-bottom: 14px;
   line-height: 26px;
 }
